@@ -2,6 +2,13 @@
 
 Site animado de página única: mar cinza de dia, luz dourada de noite.
 
+**Site no ar:** https://carvalhozzl.github.io/pianovisk/
+
+## GitHub Pages
+
+O site é estático e já está pronto para o Pages (`index.html` na raiz e `.nojekyll`).
+Para ativar: **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / `(root)` → Save**.
+
 ## Como abrir
 
 Abra o `index.html` no navegador. Ou, para servir localmente:
